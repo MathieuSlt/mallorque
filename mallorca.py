@@ -1,5 +1,4 @@
-#prix de la pinte mallorque 2.5e
-
+# la moula est cconséquente
 airbnb = 353
 
 avion = 370
